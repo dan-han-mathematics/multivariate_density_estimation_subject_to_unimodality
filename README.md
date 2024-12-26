@@ -1,2 +1,4 @@
 # multivariate_density_estimation_subject_to_unimodality
-This is the code companied for the paper "Bivariate Density Estimation Subject to Marginal Unimodality Constraints With Applications In Assessing Racial and Economic Disparities in Birthweights"
+This R script (Multivariate_density_estimation.R) implements the methodology for multivariate (bivariate) density estimation under marginal unimodality constraints, as described in the paper titled:
+
+"Bivariate Density Estimation Subject to Marginal Unimodality Constraints With Applications in Assessing Racial and Economic Disparities in Birthweights."
